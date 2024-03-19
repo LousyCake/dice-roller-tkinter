@@ -53,4 +53,4 @@ To run the Dice Roller application, ensure you have Python installed on your sys
 - The __'main'__ function creates an instance of __'DiceRollerApp'__ and starts the tkinter event loop.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
