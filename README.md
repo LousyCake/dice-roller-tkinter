@@ -1,6 +1,6 @@
 # Dice Roller
 
-![Dice Roller GUI](1.png)
+![Dice Roller GUI](img/1.png)
 
 ## Introduction
 
@@ -36,8 +36,8 @@ To run the Dice Roller application, ensure you have Python installed on your sys
 
 ## Screenshots
 
-![Dice Roller Screenshot](2.png)
-![Dice Roller Screenshot](3.png)
+![Dice Roller Screenshot](img/2.png)
+![Dice Roller Screenshot](img/3.png)
 
 ## Dependencies
 
